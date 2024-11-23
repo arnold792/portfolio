@@ -18,7 +18,7 @@ My personal portfolio website showcasing my projects and skills as a software de
 - Downloadable CV
 
 ## View Live
-[Visit Portfolio](https://YOUR_USERNAME.github.io/portfolio)
+[Visit Portfolio](https://arnoldkiprotich.github.io/portfolio)
 
 ## Contact
 Email: arnoldkiprotich50@gmail.com 
