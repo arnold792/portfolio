@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://arnold.nergaa.cloud/sitemap.xml
+Sitemap: https://portfolio-mu-lyart-81.vercel.app/sitemap.xml
